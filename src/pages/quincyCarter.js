@@ -6,7 +6,7 @@ export default function examplePage() {
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Hello, Im Ron Burgundy?</h1>
+            <h1 className='title'>Hello, Im Quincy Carter</h1>
           </div>
           <img
             className='pic'
@@ -15,11 +15,8 @@ export default function examplePage() {
           />
 
           <p className='description'>
-            I dont know if you know this, but... I am kind of a big deal. I have
-            many leather bound books and my apartment smells of rich mahogany. I
-            am also a five-time local Emmy award-winning anchor for the KVWN Channel
-            4 News in San Diego. When im not reading the news, you will find me
-            playing the jazz flute around the city at different establishments.
+      I am a first year student At Cu Boulder. In my off time I enjoy playing video games. My favorite food is Chineese Fried Rice. I have 3 dogs.
+        My favorite sport is basketball.
           </p>
 
           <a className='button' href='/'>
